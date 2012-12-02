@@ -1,4 +1,4 @@
-[the headphones rule][1]
+# [the headphones rule][1]
 
 * no headphones, you can talk to me.
 * 1 headphone, you can talk to me if i like.
